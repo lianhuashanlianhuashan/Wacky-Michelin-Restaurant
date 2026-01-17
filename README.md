@@ -6,7 +6,7 @@ Features:
   
   Processes integer lists (median computation, duplicate removal, frequency counting)
   
-  Performs matrix transformations and pattern search across rows, columns, and diagonals
+  Performs matrix transformations and pattern search across rows, columns
   
   Supports coordinate-based validation for overlapping numeric sequences
 
